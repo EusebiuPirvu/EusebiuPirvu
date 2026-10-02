@@ -1,16 +1,30 @@
-## Hi there 👋
+# Ciao! 👋
 
-<!--
-**EusebiuPirvu/EusebiuPirvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sono uno studente di Informatica e questo è l'inizio
+del mio portfolio tecnico.
 
-Here are some ideas to get you started:
+## 👤 Qualcosa su di me
+Ciao,mi chiamo Eusebiu Pirvu  e ho 16 anni 
+## ❤️ Le mie passioni
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- giocare a calcio
+- ascoltare la musica
+- fare attività fisica
+
+## 💻 Tecnologia ed esperienze
+
+Ho già avuto occasione di utilizzare o conoscere:
+
+- siti su html
+- i flowchart
+
+## 🧠 Una cosa che potrei insegnare ai miei compagni
+la disciplina e la costanza
+
+## 🔍 Cosa mi piacerebbe imparare
+a creare videogiochi
+
+## 🚀 Un progetto che mi piacerebbe realizzare
+creare un videogioco basato su una storia fantasy
+## 🎯 Guardando al futuro
+spero di acquisire le competenze necessarie per ottenere un buon lavoro 
